@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python
+Pillow
+numpy
+pandas
+requests
+deep_sort_realtime
+inference-sdk
